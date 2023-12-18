@@ -5,7 +5,7 @@ Hi, I'm Fabian, a full-stack developer. I like to create things and occasionally
 - Web Development
 - Machine Learning
 
-### WebDev Tech Stack
+### Web-Development Tech Stack
 - Front-End: Typescript, React, TailwindCSS, Vite, ThreeJS
 - Back-End: Typescript, NodeJS, ExpressJS, Mongoose, MongoDB
 
