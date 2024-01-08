@@ -20,8 +20,5 @@ Hi, I'm Fabian, a full-stack developer. I like to create things and occasionally
 - Pascal
 - RISC-V Assembly
 
-### Work
+### What I currently do
 I actively work on [Inkuility](https://github.com/fabianmontag/inkuility) and occasionally procrastinate with [Voxel](https://github.com/fabianmontag/voxel). Otherwise, I'm usually engaged in something else related to programming and computer science.
-
-### Website
-I would appreciate it if you could check out my work. Here's my [website](https://fabianmontag.com).
