@@ -18,6 +18,6 @@ I like Typescript.
 ### What I currently do
 I actively work on [Inkuility](https://github.com/fabianmontag/inkuility) and occasionally procrastinate with [Voxel](https://github.com/fabianmontag/voxel). Otherwise, I'm usually engaged in something else related to programming and computer science.
 
-ChatGTP says I belong to Ravenclaw. 
+ChatGTP says I belong to Ravenclaw. 🐦‍⬛
 
 Here is a cookie 🍪
