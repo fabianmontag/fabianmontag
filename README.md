@@ -1,6 +1,6 @@
 ### Hi 🌻
 
-I'm Fabian, a full-stack developer. I like to create things and occasionally share them with the rest of the world. I like Typescript.
+I'm Fabian, a Full-Stack Web Developer. I like to create things and occasionally share them with the rest of the world. I like Typescript.
 
 ### Interests
 - Graphics Programming
