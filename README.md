@@ -1,4 +1,6 @@
-Hi, I'm Fabian, a full-stack developer. I like to create things and occasionally share them with the rest of the world.
+# Hi 🌻
+
+I'm Fabian, a full-stack developer. I like to create things and occasionally share them with the rest of the world.
 
 ### Interests
 - Graphics Programming
