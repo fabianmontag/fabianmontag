@@ -16,7 +16,7 @@ I like Typescript.
 - Back-End: Typescript, NodeJS, ExpressJS, Mongoose, MongoDB
 
 ### What I currently do
-I actively work on [Inkuility](https://github.com/fabianmontag/inkuility) and occasionally procrastinate with [Voxel](https://github.com/fabianmontag/voxel). Otherwise, I'm usually engaged in something else related to programming and computer science.
+I study CS with focus on Data Science and AI. In my free time I like to do LeetCode questions or just create some stuff.
 
 ChatGTP says I belong to Ravenclaw. 🐦‍⬛
 
