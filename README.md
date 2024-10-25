@@ -1,6 +1,6 @@
 ### Hi 🌻
 
-I'm Fabian, a Full-Stack Web Developer. 
+I'm Fabian, CS Student and Full-Stack Web Developer. 
 
 I like to create things and occasionally share them with the rest of the world. 
 
