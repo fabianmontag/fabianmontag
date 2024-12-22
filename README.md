@@ -19,5 +19,6 @@ I like Typescript.
 I study CS with focus on Data Science and AI. In my free time I like to do LeetCode questions or just create some stuff.
 
 ChatGTP says I belong to Ravenclaw. 🐦‍⬛
+My spirit animal is the LAMBda. 🐑
 
 P.S. Here is a cookie 🍪
