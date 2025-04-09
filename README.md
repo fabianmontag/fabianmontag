@@ -16,4 +16,4 @@ I'm Fabian, a CS student with focus on Data Science and AI. I enjoy learning new
 - Python
 - OCaml
 
-My spirit animal is the LAMBda. 🐑
+My spirit animal is the λ. 🐑
