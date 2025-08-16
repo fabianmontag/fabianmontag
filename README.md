@@ -1,4 +1,4 @@
-### Hi there! 🌻
+### Hi there! 🐪
 
 I'm Fabian, a CS student with focus on Data Science and AI. I enjoy learning new things, solving problems, and sharing my projects.
 
