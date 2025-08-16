@@ -14,6 +14,7 @@ I'm Fabian, a CS student with focus on Data Science and AI. I enjoy learning new
 ### Frequently used Langauges
 - Typescript
 - Python
-- ~OCaml~ Haskell
+- OCaml
+- (some) Haskell
 
 My spirit animal is the λ. 🐑
