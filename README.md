@@ -3,11 +3,11 @@
 I'm Fabian, a CS student with focus on Data Science and AI. I enjoy learning new things, solving problems, and sharing my projects.
 
 ### Interests
-- Machine Learning & Artificial Intelligence
+- ML & AI: Neural Networks & Game Theory
 - Functional Programming
 - Constraint Programming & Optimization
 - Algorithms & Problem Solving
-- Computer-Assisted Proofs
+- Computer-Assisted Proofs & Computational Logic
 - Web Development
 - Graphics Programming
 
