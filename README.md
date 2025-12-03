@@ -1,6 +1,6 @@
-### Hi there! 🐪
+### Hi
 
-I'm Fabian, a CS student with focus on Data Science and AI. I enjoy learning new things, solving problems, and sharing my projects.
+I'm Fabian. I enjoy learning new things, solving problems, and sharing my projects.
 
 ### Interests
 - ML & AI: Neural Networks & Game Theory
