@@ -1,6 +1,6 @@
 ### Hi
 
-I'm Fabian. I enjoy learning new things, solving problems, and sharing my projects.
+I'm Fabian. I enjoy learning new things, solving problems, and creating cool things.
 
 ### Interests
 - ML & AI: Neural Networks & Game Theory
