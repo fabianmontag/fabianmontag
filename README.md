@@ -5,7 +5,7 @@ I'm Fabian. I enjoy learning new things, solving problems, and creating cool thi
 ### Interests
 - ML & AI: Neural Networks & Game Theory
 - Functional Programming
-- Algorithms & Problem Solving
+- Algorithms, Data Structures & Problem Solving
 - Computer-Assisted Proofs & Computational Logic
 - Linear Programming
 - Web Development
